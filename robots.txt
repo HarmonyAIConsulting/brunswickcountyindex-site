@@ -101,8 +101,6 @@ Disallow: /calendar?*q=
 # ---- Account & admin pages (private, not for indexing) ----
 Disallow: /dashboard
 Disallow: /dashboard/
-Disallow: /schema-inspector
-Disallow: /knowledge-graph
 
 # ---- Form submission endpoints (not indexable content) ----
 Disallow: /claim-a-listing
