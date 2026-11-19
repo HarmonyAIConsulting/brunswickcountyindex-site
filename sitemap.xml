@@ -233,12 +233,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
-  <url>
-    <loc>https://brunswickcountyindex.com/guides</loc>
-    <lastmod>2026-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-  </url>
   <!-- Guide Articles (stable, permanent URLs) -->
   <url>
     <loc>https://brunswickcountyindex.com/guides/moving-to-brunswick-county</loc>
